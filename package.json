@@ -1,6 +1,6 @@
 {
   "name": "@clunch/pie",
-  "version": "0.1.0-alpha.2",
+  "version": "0.1.0",
   "description": "饼图组件，包括选中效果、文字说明等常见的饼图。 ",
   "main": "index.js",
   "scripts": {

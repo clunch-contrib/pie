@@ -42,7 +42,7 @@ Clunch.series('ui-pie',pie);
 |----|----|----|----|----|
 |cx|number|图形中心位置横坐标|画布中心横坐标||
 |cy|number|图形中心位置纵坐标|画布中心纵坐标||
-|radius|number|图形半径|画布最小边的40%||
+|radius|number|图形半径|画布最小边的30%||
 
 由于此组件是基于[Clunch](https://github.com/hai2007/clunch)开发的，我们默认你已经掌握了相关知识。
 
