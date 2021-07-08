@@ -1,0 +1,1 @@
+<ui-pie :data='data' c-on:click='doit' />
